@@ -36,7 +36,7 @@ let coffee = {
     name: "Bubble Tea",
     pic: "images/bubble-tea.jpg",
     alt: "A picture of a bubble tea",
-    color: "pink",
+    color: "blue",
     day: "Wednesday",
     desc: 'I Love me some bubble tea!'
 }

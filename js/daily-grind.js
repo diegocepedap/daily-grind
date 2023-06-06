@@ -30,15 +30,13 @@ switch(today){
 
 
 
-
-
 let coffee = {
-    name: "Bubble Tea",
-    pic: "images/bubble-tea.jpg",
-    alt: "A picture of a bubble tea",
-    color: "blue",
-    day: "Wednesday",
-    desc: 'I Love me some bubble tea!'
-}
+     name: "Bubble Tea",
+     pic: "images/bubble-tea.jpg",
+     alt: "A picture of a bubble tea",
+     color: "blue",
+     day: "Wednesday",
+     desc: 'I Love me some bubble tea!'
+ }
 
 console.log(coffee);

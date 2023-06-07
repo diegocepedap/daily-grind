@@ -106,7 +106,7 @@ switch(today){
             pic: "images/Pumpkin-spice-latte.jpg",
             alt: "A picture of a Pumpkin-spice-latte",
             color: "blue",
-            day: "thursday",
+            day: "Thursday",
             desc: `A  Pumpkin-spice-latte contains a combination of pumpkin, cinnamon, nutmeg and clove`
         };
 
